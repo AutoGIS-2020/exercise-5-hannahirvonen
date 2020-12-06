@@ -74,8 +74,15 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
-  
-  
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 9.0 / 10.0 
+- Problem 3: 1.0 / 0.0
+### Comments
+  Readable and clear maps. The tooltip adds a lot to the interactive map. With that you could've plotted for example daycare centers as second dataset or count the percentage of kid of all population in those cells. Next, to brush up your maps even more, you could add a scalebar and north arrow.
   
   
   
